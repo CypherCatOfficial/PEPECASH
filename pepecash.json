@@ -1,0 +1,30 @@
+{
+  "$schema": "https://cashtokens.org/bcmr-v2.schema.json",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "latestRevision": "2023-11-26T05:35:31.045Z",
+  "registryIdentity": {
+    "name": "bcmr for PepeCash",
+    "description": "self-published bcmr for PepeCash"
+  },
+  "identities": {
+    "1c427a7a7b46eff710b03c7abc794f4f84360e632a3983a782650d2d394148f9": {
+      "2023-11-26T05:35:31.045Z": {
+        "name": "PepeCash",
+        "description": "the most memeable memecoin in existence",
+        "token": {
+          "category": "1c427a7a7b46eff710b03c7abc794f4f84360e632a3983a782650d2d394148f9",
+          "symbol": "PEPECASH",
+          "decimals": 0
+        },
+        "uris": {
+          "icon": "https://user-images.githubusercontent.com/75508621/285630378-4cd07a40-25f5-40e3-b2b1-a5ebc885e64d.png",
+          "web": "https://pepecash.uwu.ai/"
+        }
+      }
+    }
+  }
+}
