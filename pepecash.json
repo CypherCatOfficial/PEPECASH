@@ -11,17 +11,17 @@
     "description": "self-published bcmr for PepeCash"
   },
   "identities": {
-    "1c427a7a7b46eff710b03c7abc794f4f84360e632a3983a782650d2d394148f9": {
+    "c87b178670ff4129835b24df1c4735092b29c9b9b56c327fe7e963f450e7bbb6": {
       "2023-11-26T05:35:31.045Z": {
         "name": "PepeCash",
         "description": "the most memeable memecoin in existence",
         "token": {
-          "category": "1c427a7a7b46eff710b03c7abc794f4f84360e632a3983a782650d2d394148f9",
+          "category": "c87b178670ff4129835b24df1c4735092b29c9b9b56c327fe7e963f450e7bbb6",
           "symbol": "PEPECASH",
           "decimals": 0
         },
         "uris": {
-          "icon": "https://user-images.githubusercontent.com/75508621/285630378-4cd07a40-25f5-40e3-b2b1-a5ebc885e64d.png",
+          "icon": "https://raw.githubusercontent.com/CypherCatOfficial/PEPECASH/main/pepecash%20logos/pepecash.png",
           "web": "https://pepecash.uwu.ai/"
         }
       }
